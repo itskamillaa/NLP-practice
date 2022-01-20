@@ -11,5 +11,5 @@ The topics are covered in this order:
 6. TF-IDF
 7. Word2Vec
 8. RNN
-9. LSTM
+9. LSTM(https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 10. ...
